@@ -1,0 +1,4 @@
+# MyPullLayout
+仿京东下拉刷新控件，主要是为了支持gridview，同时也支持listview
+
+网上有基于listview实现的仿京东下拉刷新控件，但是并不支持gridview，有需求gridview仿京东下拉刷新的，就基于linerlayout实现了这个控件，可以比较方便的定制自己需要的样式
