@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPullLayout</string>
+
+
+    <string name="pull_to_refreshing_text">正在刷新</string>
+    <string name="pull_to_rlease_text">释放刷新</string>
+    <string name="pull_to_refresh_text">下拉刷新</string>
+    <string name="pull_to_refresh_loading_more">正在加载更多\u2026</string>
+</resources>

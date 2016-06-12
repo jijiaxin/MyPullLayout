@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MCPullToRefreshView">
+        <attr name="rowCount" format="integer" />
+        <attr name="swipelistOffsetLeft" format="dimension" />
+        <attr name="allowHeaderPull" format="boolean"></attr>
+        <attr name="allowFooterPull" format="boolean"></attr>
+        <attr name="supportLoadMore" format="boolean"></attr>
+        <attr name="hasVerticalScrollbars" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
